@@ -37,3 +37,5 @@ Next Session:
         https://react.dev/reference/react/useMemo
     
       lazy and suspense
+  
+  6. Project Structure or Patterns to keep the Folder Structure
